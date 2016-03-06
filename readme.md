@@ -1,6 +1,6 @@
 # Tufte Graphs
 
-A place to store scripts that generate Tufte-Style graphs. So far there's just one...
+A place to store scripts that generate Tufte-Style graphs. So far there's just one.
 
 ### Annual Sunshine Report
 
