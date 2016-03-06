@@ -4,4 +4,4 @@ A place to store scripts that generate Tufte-Style graphs. So far there's just o
 
 ### Annual Sunshine Report
 
-![Boston, MA - 2014](annualsunshinereport/graphic.png)
+![Boston, MA - 2014](https://github.com/kgero/TufteGraphs/blob/master/AnnualSunshineReport/graphic.png)
