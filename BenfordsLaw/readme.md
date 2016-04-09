@@ -4,7 +4,7 @@
 
 Here is an example of the distribution of distribution of the first digits of Zillow's Home Value Index for Single Family Homes:
 
-![Benford's Law: Zillow Home Value Index](Rplots.pdf)
+![Benford's Law: Zillow Home Value Index](Rplots.png)
 
 ## Data Source
 
